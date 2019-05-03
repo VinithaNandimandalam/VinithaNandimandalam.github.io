@@ -96,6 +96,10 @@ body a:hover{
 .banner-left img {
     width: 100%;
 }
+ .mb-30 {
+    margin-bottom: 30px;
+  }
+  
 /*-- more buttons --*/ 
 .hire-w3lgrids {
     margin-top: 2.5em;
