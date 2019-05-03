@@ -58,7 +58,7 @@ body a:hover{
 .banner-text h2 {
     font-size: 3.2em;
     line-height: 1.5em;
-    color: #fff;
+    color: black;
 	padding:.7em 0 1.3em;
 }
 .banner-text h2 span {
@@ -2277,7 +2277,7 @@ a.accordion-section-title span {
 }
 /*--//responsive--*/
 
-	.box16{text-align:center;color:#fff;position:relative}
+	.box16{text-align:center;color:#fff;position:relative;margin-top:20px}
 .box16 .box-content,.box16:after{width:100%;position:absolute;left:0}
 .box16:after{content:"";height:100%;top:0;transition:all .5s ease 0s}
 .box16 .post,.box16 .title{transform:translateY(145px);transition:all .4s cubic-bezier(.13,.62,.81,.91) 0s}
